@@ -1,0 +1,46 @@
+.affix{
+    top:5rem;
+}
+body{
+    position: relative;
+}
+label{
+    color: white;
+}
+.naveits{
+    border-radius:0px !important;
+    margin:0;
+    border: 0;
+    width: 100%;
+    top:0;
+    z-index: 9999 !important
+}
+.iduser{
+    padding: 1rem 2rem 1rem 2rem;
+    text-align: center;
+}
+.logouts{
+    padding: 0 3rem 0 0
+}
+.contents{
+    margin: 0;
+    bottom: 0;
+    float: left;
+    top:5rem;
+    width: 20%;
+    height:100%;
+    background-color: #222222
+}
+.bgimage1{
+    background-image: url(.\images\3.jpg);
+    width: 80%;
+    height: 100%;
+    float: right;
+}
+.img2{
+    margin-left: 0;
+    margin-top: 5rem;
+    float: right;
+    width:100%;
+    padding: 0 5rem 5rem 5rem
+}
