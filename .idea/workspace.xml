@@ -5,14 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1dbd6c4d-6a89-43e7-b181-c90bf52942de" name="Changes" comment="Merge remote-tracking branch 'origin/master'">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/users/home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/users/images/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/users/images/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/users/images/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/users/images/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/newFlight.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/users.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/users/css/users.css" beforeDir="false" afterPath="$PROJECT_DIR$/users/css/users.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/users/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/users/home.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,11 +62,12 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "F:/Airline/users"
+    "last_opened_file_path": "F:/Airline/users/css"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Airline\users\css" />
       <recent name="F:\Airline\users" />
     </key>
   </component>
@@ -221,7 +220,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671539371173</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Merge remote-tracking branch 'origin/master'">
+      <created>1671549430787</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1671549430788</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
