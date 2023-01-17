@@ -52,7 +52,57 @@
     </div>
   </div>
 </nav>
-
+<div class="background-wrapper" style="background-image: url(../images/1.jpg);">
+  <div class="container-fluid">
+    <header>
+      <h2>Payement</h2>
+      <hr>
+    </header>
+    <div class="col-sm-6 col-sm-offset-3">
+      <div class="panel-group">
+        <div class="panel panel-default panel-transparent">
+          <div class="panel-heading">
+            <legend style="text-align: center;">Payment Information</legend>
+          </div>
+          <div class="panel-body">
+            <form class="form-horizontal"  style="padding: 0 5rem 0 5rem; width: 100%">
+              <div class="form-group">
+                <label class="radio-inline">
+                  <input type="radio" name="optradio" style="height: 5rem">
+                  <img src="../images/mastercard.png" style="height: 70px; width:70px">
+                </label>
+                <label class="radio-inline">
+                  <input type="radio" name="optradio" style="height: 5rem">
+                  <img src="../images/visa.png" style="height: 70px; width:70px">
+                </label>
+              </div>
+              <div class="form-group">
+                <label for="name">Card Number</label>
+                <input type="0000-0000" class="form-control trans-input-area" id="name" placeholder="Card Number"
+                       name=""
+                       required>
+              </div>
+              <div class="form-group">
+                <div style="float: left; width: 46%">
+                  <label for="Country">Expiray</label>
+                  <input type="month" class="form-control trans-input-area" placeholder="month/year" name="" id="Country" required>
+                </div>
+                <div style="float: right; width: 46%">
+                  <label for="Country">CVC</label>
+                  <input type="number" class="form-control trans-input-area" placeholder="CVC" name="" id="" required>
+                </div>
+              </div>
+              <br>
+              <div style="">
+                <button class="btn btn-primary btn-block trans-input-area" type="submit">Click to Pay</button>
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
 
 <footer id="footer">
   <div class="container-fluid">
