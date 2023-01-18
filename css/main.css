@@ -77,14 +77,6 @@ ul.icons li{
     background-color: black;
     text-align: center;
 }
-/*@media screen and (max-width: 600px) {
-   nav a:not(:first-child) {display: none;}
-   .nav a.icon {
-     float: right;
-     display: block;
-   }
- }*/
-
 @media screen and (max-width: 600px) {
   nav.responsive {position: relative;}
   nav.responsive .icon {
@@ -97,6 +89,10 @@ ul.icons li{
     float: none;
     display: block;
     text-align: left;
-/*    color: black;*/
+  }
+  table.responsive tr{
+    float: none;
+    display: block;
+    overflow-x:auto
   }
 }
