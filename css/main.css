@@ -5,10 +5,10 @@ body{
 .carousel-caption{
     top: 20% !important;
     bottom: auto;
-    text-size:24px;
+    text-size:20px;
 }
 .carousel-caption h2{
-    font-size: 9rem;
+    font-size: 7rem;
     margin-bottom: 0;
     color: #FFF;
     font-weight: 300;
@@ -101,7 +101,7 @@ ul.icons li{
     text-size:3px;
 }
 .carousel-caption h2{
-    font-size: 2.5rem;
+    font-size: 2rem;
     margin-bottom: 0;
     color: #FFF;
     font-weight: 100px;
