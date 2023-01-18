@@ -95,4 +95,24 @@ ul.icons li{
     display: block;
     overflow-x:auto
   }
+  .carousel-caption{
+    top: 20% !important;
+    bottom: auto;
+    text-size:3px;
+}
+.carousel-caption h2{
+    font-size: 2.5rem;
+    margin-bottom: 0;
+    color: #FFF;
+    font-weight: 100px;
+}
+.carousel-caption p{
+    color: rgba(255, 255, 255, 0.65);
+    text-transform: uppercase;
+    font-size: 3rem;
+    font-weight: 100px;
+    margin: 0;
+    padding-bottom: 1.75rem;
+    letter-spacing: .25rem;
+}
 }
