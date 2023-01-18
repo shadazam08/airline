@@ -96,7 +96,7 @@ ul.icons li{
     overflow-x:auto
   }
   .carousel-caption{
-    top: 20% !important;
+    top: 7% !important;
     bottom: auto;
     text-size:3px;
 }
@@ -112,7 +112,7 @@ ul.icons li{
     font-size: 3rem;
     font-weight: 100px;
     margin: 0;
-    padding-bottom: 1.75rem;
+    padding-bottom: 1.5 rem;
     letter-spacing: .25rem;
 }
 }
